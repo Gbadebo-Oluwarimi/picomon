@@ -11,9 +11,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Wezzi - The smart way to manage and track your users",
-  description:
-    "We provide an all-in-one solution for integrating user login, control, and management, making it easy to handle everything from access to user tracking.",
+  title: "Picomon - the Network monitoring tool for modernists",
+  description: ".",
 };
 
 export default function RootLayout({
