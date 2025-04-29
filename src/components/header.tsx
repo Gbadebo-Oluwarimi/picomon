@@ -13,7 +13,7 @@ export default function Header() {
     <header className="py-6">
       <nav className="flex items-center justify-between">
         <Link href="/" className="text-2xl font-bold tracking-tight text-white">
-          Wezzi<span className="text-orange-500">.</span>
+          Picomon<span className="text-green-500">.</span>
         </Link>
 
         {/* Desktop Navigation */}

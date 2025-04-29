@@ -23,7 +23,7 @@ export default function HeroSection() {
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.5 }}
             >
-              <Activity className="h-12 w-12 text-orange-500 animate-pulse" />
+              <Activity className="h-12 w-12 text-green-500 animate-pulse" />
             </motion.div>
 
             <motion.h1
@@ -54,7 +54,7 @@ export default function HeroSection() {
             >
               <Button
                 size="lg"
-                className="group bg-orange-500 text-white hover:bg-orange-600"
+                className="group bg-green-500 text-white hover:bg-green-600"
               >
                 Download for desktop
                 <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
